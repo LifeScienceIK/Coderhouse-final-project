@@ -2,9 +2,11 @@
 ## Project description
 I worked on this project as part of the data science course I took at Coderhouse. I went through the main stages of a data science lifecycle, including dataset description, the analysis of the commercial context, exploratory data analysis and the building of a ML model.
 The analysed dataset was put together in 2021. That should be kept in mind when considering the conclusions I arrived at.
-As the project was carried out for an Argentine learning platform, the comments in the code are written in Spanish whereas the presentation of the project is available in Spanish and English.
+
+As the project was carried through for an Argentine learning platform, the comments in the code are written in Spanish whereas the presentation of the project is available in Spanish and English.
 ## Tasks completed
-I cleaned and analysed a dataset containing information on the popularity and features of different kinds of Netflix content. 
+I cleaned and analysed a dataset containing information on the popularity and features of different kinds of Netflix content.
+
 * I first identified the columns that will be of no interest for the analysis and found ways to eliminate null values depending on each particular case.
 * Through exploratory data analysis, I was able to identify the most common types of content as well as the features, such as genre, origin country and release year, that can contribute to the popularity of content
 * To build an effective ML model, I created new variables by combining the values from other columns. Namely, I calculated the total runtime of each content item as well as the time period it belongs to.
