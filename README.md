@@ -1,5 +1,5 @@
 # Tastes on Netflix
-![Netflix office building - Unsplash](netflix-office.jpg)
+![Netflix office building - Unsplash](netflix-office.jpg "Netflix office building - Unsplash")
 ## Project description
 I worked on this project as part of the data science course I took at Coderhouse. I went through the main stages of a data science lifecycle, including dataset description, the analysis of the commercial context, exploratory data analysis and the building of a ML model.
 
