@@ -1,4 +1,5 @@
 # Tastes on Netflix
+![Netflix office building] (https://unsplash.com/fr/photos/construction-en-beton-blanc-et-noir-pendant-la-nuit-lI7dlA5VBp8)
 ## Project description
 I worked on this project as part of the data science course I took at Coderhouse. I went through the main stages of a data science lifecycle, including dataset description, the analysis of the commercial context, exploratory data analysis and the building of a ML model.
 
