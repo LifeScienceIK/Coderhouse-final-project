@@ -18,4 +18,4 @@ I cleaned and analysed a dataset containing information on the popularity and fe
 ## Results
 With the help of the exploratory data analysis and clustering model, I identified particular features that make a content item more likely to become popular. Thus, the most popular types of content on the platform seem to be crime drama movies, comedy movies and TV shows as well as Japanese animes.
 
-The suggestion fuction, in turn, manages to pick out relevant content items that coincide in the language, genre and production country with the item liked by the user.
+The suggestion function, in turn, manages to pick out relevant content items that coincide in the language, genre and production country with the item liked by the user.
